@@ -1,6 +1,6 @@
 # Hey, I'm Philemon 👋
 
-#### Technical Skills: MySQL, Tableau 
+#### Im currently in my fourth year of my degree, wrapping up my last 30ish credits in business analytics and decision making courses. My passion lies in using data to make the right business decisions, and making good (actionable) looking dashboards 🤩
 
 ## Education
 Bachelor, Business Administration | Simon Fraser University (_Expected Fall 2026_)
