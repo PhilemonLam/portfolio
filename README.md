@@ -3,7 +3,7 @@
 #### Technical Skills: SQL, Tableau, Excel
 
 ## Education
-- Bachelor, Business Administration | Simon Fraser University (_Expected Fall 2026_)								       		
+Bachelor, Business Administration | Simon Fraser University (_Expected Fall 2026_)								       		
 
 ## Work Experience
 **Digital Marketing Specialist @ TG Cargo Inc. (_Jan. 2024 - Dec. 2024_)**
@@ -20,9 +20,9 @@
 
 
 ## Projects
-### Finding Employment In BC - BUS 336 Hacakthon Tableau
-[Publication](https://public.tableau.com/app/profile/philemon.lam/viz/Dashboard_17324289633760/Dashboard)
+### Finding Employment In BC - BUS 336 Tableau Hackathon
+[Tableau Public Dashboard](https://public.tableau.com/app/profile/philemon.lam/viz/Dashboard_17324289633760/Dashboard)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+For my BUS336 hackathon, my group chose to create a narrative and Tableau dashboard focused on finding employment in BC. In our team of four, it was my responsibility to create the dashboard. 
+I collected and cleaned data from StatsCan, BCStats, and WorkBC. Then, I used Tableau to design a visually appealing dashboard. Judged by industry professionals from EA, StatsCan, and Glentel, my dashboard placed 2nd out of 51.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
