@@ -1,23 +1,10 @@
-# Aspiring Business Intelligence Analyst / Business Analyst
+# I'm interested in Business Intelligence Analyst, Business Analyst, Operations, and Data Analyst roles.
 
-#### Technical Skills: SQL, Tableau, Excel
+#### Technical Skills: MySQL, Tableau 
 
 ## Education
-Bachelor, Business Administration | Simon Fraser University (_Expected Fall 2026_)								       		
-
-## Work Experience
-**Digital Marketing Specialist @ TG Cargo Inc. (_Jan. 2024 - Dec. 2024_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Ecommerce Coordinator @ Mosaic Sales Solutions (_Oct. 2023- Mar. 2024_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-
-- **Customer Support Coordinator Intern @ MyGoodReal Tech LTD. (_June. 2023- Oct. 2023_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-
+Bachelor, Business Administration | Simon Fraser University (_Expected Fall 2026_)
+- Management Information Systems & Operations Management, BADM
 
 ## Projects
 ### Finding Employment In BC - BUS 336 Tableau Hackathon
